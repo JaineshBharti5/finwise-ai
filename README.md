@@ -22,7 +22,7 @@ This project was developed as part of the **SmartBridge Vibe Coding Internship (
 | Name | Role |
 |------|------|
 | Jainesh Bharti | Frontend + AI Integration |
-| Navneeth | Frontend + Google Sheets Integration |
+| Navneeth Bayyapu| Frontend + Google Sheets Integration |
 | Vishnu Vardhana Reddy Paluvai | Frontend + UI Development |
 
 ---
