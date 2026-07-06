@@ -1,4 +1,4 @@
-# FinWise AI 🏦
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ba41b84-ccb4-4872-8e41-64332f58e0a7" /># FinWise AI 🏦
 ### Intelligent Loan Eligibility, Credit Analysis & Financial Advisory Platform
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -105,6 +105,8 @@ The application is deployed using **GitHub Pages** (static hosting — no backen
 🔗 **Live Link:** [https://jaineshbharti5.github.io/finwise-ai](https://jaineshbharti5.github.io/finwise-ai)
 
 ---
+
+[![Watch Demo](https://img.shields.io/badge/▶-Watch%20Demo-blue)](https://drive.google.com/file/d/1R7yStCQXAuEFCktQstJzgT8etC3Lp7Fr/view?usp=sharing)
 
 ## 📚 Internship Details
 
