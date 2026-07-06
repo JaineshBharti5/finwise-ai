@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ba41b84-ccb4-4872-8e41-64332f58e0a7" /># FinWise AI 🏦
 ### Intelligent Loan Eligibility, Credit Analysis & Financial Advisory Platform
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
