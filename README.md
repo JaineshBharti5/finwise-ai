@@ -106,6 +106,11 @@ The application is deployed using **GitHub Pages** (static hosting — no backen
 
 ---
 
+## 🎥 Demo Video
+[Watch Demo](https://drive.google.com/file/d/1R7yStCQXAuEFCktQstJzgT8etC3Lp7Fr/view?usp=sharing)
+
+---
+
 ## 📚 Internship Details
 
 - **Program:** SmartBridge Vibe Coding Internship — SIP 2026
